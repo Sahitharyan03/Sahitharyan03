@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <h1>Hey, I'm Sahith Aryan!</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Data+Analyst+%7C+2+Years+Experience;Python+%7C+SQL+%7C+JavaScript+%7C+TypeScript;Cloud+%26+DevOps+%7C+AWS+%7C+Docker+%7C+K8s;AI+%26+Generative+AI+Pipelines;Building+Data-Driven+Solutions+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Software+Developer+%7C+2+Years+Experience;Python+%7C+SQL+%7C+JavaScript+%7C+TypeScript;Cloud+%26+DevOps+%7C+AWS+%7C+Docker+%7C+K8s;AI+%26+Generative+AI+Pipelines;Building+Data-Driven+Solutions+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 </div>
 
@@ -16,7 +16,7 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🧑‍💻 About Me
 
-I'm a passionate **Data Analyst** with **2 years of experience** turning raw data into meaningful insights and building scalable, data-driven solutions. I thrive at the intersection of analytics, full-stack development, and cloud infrastructure.
+I'm a passionate **Software Developer** with **2 years of experience** turning raw data into meaningful insights and building scalable, data-driven solutions. I thrive at the intersection of analytics, full-stack development, and cloud infrastructure.
 
 - 🔭 Currently building AI-powered data pipelines and analytics dashboards
 - 🌱 Exploring **Generative AI**, **LLM APIs**, and advanced cloud architectures
